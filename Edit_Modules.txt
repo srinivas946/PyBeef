@@ -1,0 +1,683 @@
+[3]
+service_name =
+key =
+value =
+action =
+
+[4]
+title =
+message =
+button_name =
+
+[8]
+file_name =
+
+[10]
+directory =
+
+[11]
+title =
+question =
+ans_yes =
+ans_no =
+text =
+
+[15]
+apache_server_ip =
+apache_server_port =
+
+[16]
+server_path =
+device_file_path =
+
+[17]
+server_ip =
+server_port =
+command =
+
+[19]
+payload_name =
+payload_information =
+
+[20]
+host_address =
+host_port =
+channel =
+username =
+message =
+
+[21]
+target_ip =
+target_port =
+custom_message =
+
+[22]
+target_ip =
+target_port =
+command =
+command_timeout =
+# provide result_size in bytes
+result_size =
+
+[23]
+payload_name =
+zone = ''
+data =
+
+[24]
+target_ip =
+target_port =
+receiver_name =
+receiver_fax_number =
+subject =
+message =
+
+[25]
+target_ip =
+target_port =
+commands =
+timeout =
+
+[26]
+target_ip =
+target_port =
+commands =
+timeout =
+
+
+[35]
+url =
+
+[39]
+deface_title =
+deface_icon_path =
+deface_content =
+
+[41]
+url =
+
+[42]
+alert_dialog =
+
+[44]
+question =
+
+[47]
+url =
+
+[49]
+iframe_title =
+iframe_icon_path =
+iframe_source =
+iframe_timeout =
+
+[52]
+fake_url =
+real_url =
+dom_selector =
+
+[54]
+deface_selector =
+deface_content =
+
+[56]
+tel_number =
+
+[57]
+youtube_id =
+jquery_selector =
+
+[59]
+login_url =
+
+[60]
+redirect_url =
+
+[72]
+command_id =
+
+[74]
+sound_url_file =
+
+[77]
+title =
+text =
+no_of_pictures =
+time_frame =
+
+[80]
+domain =
+send_data =
+
+[82]
+domain =
+send_data =
+
+[90]
+remote_host =
+remote_port =
+command =
+timeout =
+
+[91]
+remote_host =
+remote_port =
+command =
+timeout =
+
+[92]
+remote_host =
+remote_port =
+local_host =
+local_port =
+
+[94]
+target_webserver =
+target_directory =
+malicious_filename =
+malicious_file_extension =
+inject_php =
+# provide upload_timeout in seconds
+upload_timeout =
+
+[95]
+opencart_path =
+password =
+
+[96]
+zenos_webroot =
+username =
+password =
+# user_level (Manger | ZenManager | ZenUser)
+user_level =
+
+[97]
+remote_host =
+remote_port =
+command =
+timeout =
+
+[98]
+# protocol (http | https)
+protocol =
+hostname =
+port =
+# usertype (createUser | createIntegrationUser)
+usertype =
+customer_id =
+username =
+password =
+
+[99]
+switch_web_root =
+old_password =
+new_password =
+
+[100]
+remote_host =
+remote_port =
+local_host =
+local_port =
+username =
+password =
+
+[101]
+payload =
+connect_back_to_host =
+connect_back_to_port =
+applet_id =
+applet_name =
+
+[102]
+dropper_url =
+applet_name =
+ie_only = checked
+
+[106]
+command =
+
+[107]
+application_path =
+
+[109]
+remote_host =
+remote_port =
+local_host =
+local_port =
+
+[110]
+target_url =
+
+[111]
+target_url =
+
+[112]
+target_url =
+
+[113]
+target_url =
+
+[114]
+url =
+
+[115]
+remote_host =
+remote_port =
+local_host =
+local_port =
+
+[117]
+# http_method (GET | POST)
+http_method =
+target_protocol =
+target_hostname =
+target_port =
+localhost =
+localport =
+wait_time_between_requests =
+
+[119]
+boast_machine_url =
+username =
+password =
+email =
+
+[120]
+target_protocol =
+target_hostname =
+target_port =
+base_directory =
+# payload types: (reverse_bash | reverse_netcat | reverse_ruby | reverse_python | reverse_php)
+payload =
+localhost =
+localport =
+# wait time between requests in secs
+wait_time_between_requests =
+
+[121]
+form_controller_url =
+malicious_jar_file_url =
+
+
+[122]
+remote_host =
+remote_port =
+# protocol types (http | https)
+target_protocol =
+# payload types : (reverse_bash | reverse_netcat | reverse_python)
+payload =
+localhost =
+localport =
+
+[123]
+target_url =
+# http_methods : (GET | POST)
+http_method =
+bash_command =
+
+[124]
+axous_url =
+username =
+password =
+email =
+
+[125]
+retrieve_file =
+# cf_server_os : (Windows | Linux/MacOSX/*BSD)
+cf_server_os =
+# cf_version: (8|9)
+cf_version =
+
+[126]
+host_name =
+filename =
+base64_of_exploit =
+
+[127]
+target_host =
+service_port =
+beef_bind_port =
+jmp_esp =
+
+[128]
+target_host =
+target_port =
+beef_bind_port =
+path =
+delay =
+beef_host =
+beef_port =
+beef_junk_port =
+beef_junk_socket =
+
+[129]
+host_name =
+beef_bind_port =
+path =
+command =
+shell_code =
+
+[130]
+remote_host =
+remote_port =
+local_host =
+local_port =
+
+[131]
+username =
+password =
+email =
+# domail accepts either true or false
+domail =
+website_url =
+first_name =
+last_name =
+
+[132]
+router_web_root =
+command =
+
+[133]
+remote_host =
+remote_port =
+local_host =
+local_port =
+
+[134]
+target_hostname =
+target_port =
+msf_listener_host =
+msf_listener_port =
+command =
+malicious_jsp_name =
+# payload types (reverse | bind)
+payload =
+
+[135]
+target_web_root_url =
+desired_password =
+
+[136]
+target_web_root_url =
+desired_password =
+
+[137]
+router_web_root_url =
+desired_username =
+desired_password =
+
+[138]
+remote_host =
+remote_port =
+# timeout in secs
+timeout =
+command =
+
+[140]
+router_web_root_url =
+desired_password =
+desired_web_ui_port =
+desired_telnet_port =
+
+[141]
+target_web_root_url =
+desired_password =
+
+[142]
+remote_hostname =
+primary_DNS_server =
+secondary_DNS_server =
+
+[143]
+remote_hostname =
+desired_password =
+
+[144]
+router_web_root =
+desired_port =
+desired_password =
+
+[145]
+router_web_root =
+desired_web_ui_port =
+desired_username =
+desired_password =
+
+[146]
+router_web_root =
+command =
+
+[147]
+remote_hostname =
+desired_password =
+
+[148]
+router_web_root =
+desired_username =
+desired_password =
+
+[149]
+target_host =
+
+[150]
+remote_hostname =
+primary_DNS_server =
+secondary_DNS_server =
+
+[151]
+router_web_root =
+command =
+
+[152]
+target_web_root_url =
+desired_password =
+
+[153]
+router_web_root =
+command =
+
+[154]
+router_web_root =
+desired_port =
+desired_password =
+
+[155]
+router_web_root =
+desired_web_ui_port =
+desired_password =
+
+[156]
+target_web_root_url =
+desired_password =
+
+[157]
+remote_hostname =
+primary_DNS_server =
+secondary_DNS_server =
+
+[158]
+router_web_root =
+desired_web_ui_port =
+desired_password =
+
+[159]
+remote_hostname =
+primary_DNS_server =
+secondary_DNS_server =
+
+[160]
+target_web_root_url =
+desired_password =
+
+[161]
+target_hostname =
+
+[162]
+remote_hostname =
+primary_DNS_server =
+
+[163]
+remote_hostname =
+ssid =
+
+[164]
+remote_hostname =
+primary_DNS_server =
+secondary_DNS_server =
+
+[165]
+target_web_root_url =
+desired_password =
+
+[166]
+remote_hostname =
+primary_DNS_server =
+secondary_DNS_server =
+
+
+[167]
+router_web_root =
+command =
+
+[168]
+router_web_root =
+payload =
+
+[169]
+router_web_root =
+desired_port =
+desired_password =
+
+
+[170]
+remote_host =
+remote_port =
+# timeout in secs
+timeout =
+command =
+
+[171]
+beef_server_domain =
+powershell_HTA_handler =
+
+[172]
+targetted_domains =
+# available templates are (credential | confirmbox | amazon | chromecertbeggar | chromecertbeggar2)
+choose_tmpl =
+
+[173]
+extension_name =
+xpi_name =
+listen_port =
+
+[174]
+url =
+notification_text =
+
+[175]
+xss_hook_url =
+# interval time and delay time should be in milli seconds
+logout_gmail_interval =
+redirect_delay =
+
+[177]
+payload_handler =
+
+[178]
+redirect_url =
+# proivde wait in minutes
+wait =
+
+[180]
+clippy_directory =
+ask_user_text =
+exe_file_path =
+clippy_time_interval =
+message =
+
+[181]
+notification_text =
+
+[183]
+# available choices are (Facebook | LinkedIn | Windows | YouTube | Yammer | IOS | Generic)
+choice =
+# available backing (Grey | Clear)
+backing =
+custom_logo_path =
+
+[184]
+plugin_url =
+jquery_selector =
+
+[185]
+image_path = http://10.0.2.6:3000/adobe/flash_update.png
+# available payload (Custom_Payload | Firefox_Extension)
+payload = Custom_Payload
+payload_uri = https://www.google.com
+
+[190]
+url =
+notification_text =
+
+[199]
+hostname =
+port =
+
+[206]
+key_paths =
+
+[215]
+domain =
+
+[217]
+url =
+javascript =
+
+[219]
+mobile_number =
+message =
+
+[223]
+wordpress_url =
+
+[224]
+md5_hash =
+
+[226]
+iframe_source =
+# provide time in milli seconds
+send_back_interval =
+
+[228]
+display_message =
+# provide time in milli seconds
+timeout =
+
+[235]
+google_query =
+
+[236]
+javascript_code =
+
+[243]
+target =
+domain =
+callback_url =
+
+[244]
+# provide dns list separed by comma
+dns_list =
+# proivde time in milli seconds
+timeout =
+
+[252]
+tor_resource =
+timeout =
+
+[258]
+scan_ip_or_hostname =
+scan_ports =
+# provide time in milli seconds
+closed_port_timeout =
+delay_between_requests =
+debug = false
