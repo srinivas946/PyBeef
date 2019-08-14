@@ -40,5 +40,4 @@ This Tool provides the list of options to the user and each option perorms diffe
 <br/><br/>
 <img src="https://user-images.githubusercontent.com/36254679/63012535-0b9afa80-bea8-11e9-9983-87d21db2d474.png"/>
 <br/>
-### Disclaimer
 This Tool provides the basic knowledge on how to use Beef in real time, use this tool in ethical way.<br/>Using this tool you can get complete report (os, version, cpu, graphic, etc..) of the browser<br/>PyBeef implements a lot of testing functionalities on hooked browsers, use this tool as browser testing tool
