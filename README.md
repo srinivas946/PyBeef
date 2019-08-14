@@ -17,12 +17,12 @@ BeEF is short for The Browser Exploitation Framework. It is a penetration testin
 5. Fetching Browser Logs<br/>
 6. Provide Brief Information about Command Modules<br/>
 <br/>
-![Screenshot from 2019-08-14 15-00-08](https://user-images.githubusercontent.com/36254679/63011594-3dab5d00-bea6-11e9-8d81-5831c834b789.png)
+<img src="https://user-images.githubusercontent.com/36254679/63011594-3dab5d00-bea6-11e9-8d81-5831c834b789.png"/>
 <br/>
 PyBeEF requires Beef Server and Apache Server which has to run on the same port, default port 3000 is taken by beef<br/>
 To generate api key provide BeEF Credentials, default username and password is beef<br/>
 <br/>
-![Screenshot from 2019-08-14 15-01-01](https://user-images.githubusercontent.com/36254679/63012110-45b7cc80-bea7-11e9-9af7-226248fa2d46.png)
+<img src="https://user-images.githubusercontent.com/36254679/63012110-45b7cc80-bea7-11e9-9af7-226248fa2d46.png"/>
 <br/>
 This Tool provides the list of options to the user and each option perorms different tasks<br/>
 1. Get List of Sessions for active zombies<br/>
@@ -38,7 +38,7 @@ This Tool provides the list of options to the user and each option perorms diffe
 11. Perform all attacks in one shot, where victim intervention is required (Use Edit_Modules.txt file to add information required for specific module)<br/>
 12. Generate PDF Report for Complete Hooked Browser Information
 <br/><br/>
-![Screenshot from 2019-08-14 15-01-22](https://user-images.githubusercontent.com/36254679/63012535-0b9afa80-bea8-11e9-9983-87d21db2d474.png)
+<img src="https://user-images.githubusercontent.com/36254679/63012535-0b9afa80-bea8-11e9-9983-87d21db2d474.png"/>
 <br/>
 ### Disclaimer
 This Tool provides the basic knowledge on how to use Beef in real time, use this tool in ethical way.<br/>Using this tool you can get complete report (os, version, cpu, graphic, etc..) of the browser<br/>PyBeef implements a lot of testing functionalities on hooked browsers, use this tool as browser testing tool
