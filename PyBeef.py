@@ -460,7 +460,7 @@ class Beef_Project:
                 elements.append(pdf.create_text('<br/>'))
                 final_list = []
                 final_list.append(['Module Name', 'Module Category', 'DateTime', 'Module Response'])
-                for i in range(1, 20):
+                for i in range(1, 261):
                     for k, v in sessions.items():
                         rm_info = self.report_module_info(str(i), v)
                         if rm_info is not None: final_list.append(rm_info)
